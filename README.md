@@ -14,7 +14,7 @@ MacOS Version: 10.13.6 (Higher versions do not support this specification)
 
 OpenCore Version: 0.6.5
 
-##Download configs
+## Download configs
 
 https://github.com/riatlaa/delloptiplex790hackintosh/releases
 
